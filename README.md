@@ -3,19 +3,19 @@ From lifeguard to customer service, then transitioned to digital marketing and n
 
 I'm always seek to learn new languages and frameworks 🤘🏼
 
-**Skills:** 
+### My Skills:
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### Languages: 
+![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql)
 
+### Frameworks:
+![My Skills](https://skillicons.dev/icons?i=bootstrap)
 
-
-
-
+### More details:
 
 - 🌱 I’m currently learning new languages 📚 
 - ⚡ Fun fact: Who doesn't know teaches 🤘🏼
-- 🧑🏼‍🎓 Programmer cadet at CODE for All 🚀
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/RFMCS)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rui-filipe-silva//)  
+- 🧑🏼‍🎓 Programmer cadet at [Code for All_](https://codeforall.com/) 🚀
+- 👉🏼 Press here to write me down an email [✉️](rfmcsilva@gmail.com)
+- Let be friends in [LinkdIn](https://www.linkedin.com/in/rui-filipe-silva/) 🤝
 
