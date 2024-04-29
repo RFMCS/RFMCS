@@ -1,11 +1,9 @@
-### Hi there 👋, my name is Rui
+### 👋 Hi there my name is Rui
 From lifeguard to customer service, then transitioned to digital marketing and now fully immersed in IT Bootcamp at the prestigious academy Code for All_.  🥷🚀
 
 I'm always seek to learn new languages and frameworks 🤘🏼
 
 ### My Skills:
-
-### Languages: 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql)
 
 ### Frameworks:
