@@ -9,8 +9,6 @@ I'm always seek to learn new languages and frameworks 🤘🏼
 ### Frameworks:
 ![My Skills](https://skillicons.dev/icons?i=bootstrap,hibernate)
 
-### Databases:
-![My Skills](https://skillicons.dev/icons?i=mysql,sql)
 
 ### More details:
 
