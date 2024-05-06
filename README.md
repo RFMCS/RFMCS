@@ -24,8 +24,6 @@ I'm always seek to learn new languages and frameworks 🤘🏼
 - 👉🏼 Click here to write me an email [✉️](rfmcsilva@gmail.com) 👈🏼
 
 ### 
-<br>
-
 
 <h2 dir="auto"></h2>
 
