@@ -1,3 +1,6 @@
+<img src="resources/rui-silva.png" width="100%">
+
+<h2 dir="auto"></h2>
 
 ### 👋 Hi there my name is Rui
 From lifeguard to customer service, then transitioned to digital marketing and now fully immersed in IT Bootcamp at the prestigious academy Code for All_.  🥷🚀
