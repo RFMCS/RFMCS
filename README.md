@@ -8,8 +8,7 @@ I'm always seek to learn new languages and frameworks 🤘🏼
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql)
 
 ### Frameworks:
-![My Skills](https://skillicons.dev/icons?i=bootstrap,hibernate)
-
+![My Skills](https://skillicons.dev/icons?i=bootstrap,hibernate,jquery,maven)
 
 ### More details:
 
