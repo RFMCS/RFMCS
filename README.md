@@ -4,10 +4,10 @@ From lifeguard to customer service, then transitioned to digital marketing and n
 
 I'm always seek to learn new languages and frameworks 🤘🏼
 
-### My Skills:
+### ⚒️ My Skills:
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql)
 
-### Frameworks:
+###  Frameworks:
 ![My Skills](https://skillicons.dev/icons?i=bootstrap,hibernate,jquery,maven)
 
 ### More details:
