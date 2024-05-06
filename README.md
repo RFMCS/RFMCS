@@ -27,6 +27,23 @@ I'm always seek to learn new languages and frameworks 🤘🏼
 
 <h2 dir="auto"></h2>
 
+<div id="user-content-toc">
+  <ul align="center">
+    <h3>&nbsp;🏆 GitHub Statistics</h3>
+  </ul>
+</div>
+
+<!-- Git status cards -->
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shootiept&hide_border=true&theme=radical" width="400px">
+</p>
+
+<div align="center">
+    <img width="375px" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rfmcs&theme=radical" alt="profile status"/>
+    <img width="350px" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rfmcs&show_icons=true&locale=en&layout=compact&theme=radical" alt="most languages used"/>
+    
+</div>
+
 <div align = "center"  
         <p> Follow me: </p>
          <a href="https://www.linkedin.com/in/rui-filipe-silva/">
