@@ -22,10 +22,27 @@ I'm always seek to learn new languages and frameworks 🤘🏼
 - ⚡ Fun fact: Those who don't know teach 🤘🏼
 - 🧑🏼‍🎓 Programmer cadet at [Code for All_](https://codeforall.com/) 🚀
 - 👉🏼 Click here to write me an email [✉️](rfmcsilva@gmail.com) 👈🏼
-
+- 📚 check my CV [here](https://github.com/RFMCS/RFMCS/blob/main/resources/rui_silva_junior_fullstackdev.pdf) 📚
 ### 
 
 <h2 dir="auto"></h2>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <h3>&nbsp;🏆 GitHub Statistics</h3>
+  </ul>
+</div>
+
+<!-- Git status cards -->
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rfmcs&hide_border=true&theme=radical" width="400px">
+</p>
+
+<div align="center">
+    <img width="375px" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rfmcs&theme=radical" alt="profile status"/>
+    <img width="350px" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rfmcs&show_icons=true&locale=en&layout=compact&theme=radical" alt="most languages used"/>
+    
+</div>
 
 <div align = "center"  
         <p> Follow me: </p>
