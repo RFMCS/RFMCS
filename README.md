@@ -12,7 +12,7 @@ I'm always seek to learn new languages and frameworks 🤘🏼
 <h2 dir="auto"></h2>
 
 ### ⚒️ Frameworks & Tools:
-![My Skills](https://skillicons.dev/icons?i=bootstrap,hibernate,jquery,maven,vscode,powershell,postman)
+![My Skills](https://skillicons.dev/icons?i=bootstrap,hibernate,jquery,maven,vscode,powershell,postman,idea)
 
 <h2 dir="auto"></h2>
 
