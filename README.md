@@ -35,7 +35,7 @@ I'm always seek to learn new languages and frameworks 🤘🏼
 
 <!-- Git status cards -->
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shootiept&hide_border=true&theme=radical" width="400px">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rfmcs&hide_border=true&theme=radical" width="400px">
 </p>
 
 <div align="center">
