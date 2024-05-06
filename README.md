@@ -22,7 +22,7 @@ I'm always seek to learn new languages and frameworks 🤘🏼
 - ⚡ Fun fact: Those who don't know teach 🤘🏼
 - 🧑🏼‍🎓 Programmer cadet at [Code for All_](https://codeforall.com/) 🚀
 - 👉🏼 Click here to write me an email [✉️](rfmcsilva@gmail.com) 👈🏼
-
+- 📚 check my CV [here](https://github.com/RFMCS/RFMCS/blob/main/resources/rui_silva_junior_fullstackdev.pdf) 📚
 ### 
 
 <h2 dir="auto"></h2>
