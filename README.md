@@ -19,7 +19,7 @@ I'm always seek to learn new languages and frameworks 🤘🏼
 ### 🔍 More details:
 
 - 🌱 I’m currently learning new languages 📚 
-- ⚡ Fun fact: Who doesn't know teaches 🤘🏼
+- ⚡ Fun fact: Those who don't know teach 🤘🏼
 - 🧑🏼‍🎓 Programmer cadet at [Code for All_](https://codeforall.com/) 🚀
 - 👉🏼 Click here to write me an email [✉️](rfmcsilva@gmail.com) 👈🏼
 
