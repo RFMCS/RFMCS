@@ -18,3 +18,4 @@ I'm always seek to learn new languages and frameworks 🤘🏼
 - 👉🏼 Click here to write me an email [✉️](rfmcsilva@gmail.com) 👈🏼
 - 🤝 Let be friends in [LinkdIn](https://www.linkedin.com/in/rui-filipe-silva/) 🤝
 
+        
