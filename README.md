@@ -52,10 +52,4 @@ I'm always seek to learn new languages and frameworks 🤘🏼
          <a href="https://www.linkedin.com/in/rui-filipe-silva/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
      </a>
-    <a href="https://www.facebook.com/rui.costa.silva90s/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-     </a>
-     <a href="https://www.instagram.com/rui_dacostasilva/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-     </a>
 </div>
